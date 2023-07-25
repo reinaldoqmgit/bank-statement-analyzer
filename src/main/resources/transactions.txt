@@ -1,0 +1,12 @@
+10-02-2023,100,Headphones
+10-02-2023,350,Keyboard
+11-02-2023,900,Monitor
+12-02-2023,2100,Smartphone
+12-02-2023,200,Battery
+13-02-2023,90,Case
+14-02-2023,20,Usb-Cable
+14-02-2023,21,HDMI
+14-02-2023,70,Flash-Memory
+15-02-2023,100,Mouse
+15-02-2023,340,Power-Charger
+15-02-2023,3100,Tablet
